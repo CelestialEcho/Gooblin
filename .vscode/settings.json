@@ -1,0 +1,10 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Booris\\Desktop\\Gooblin\\bin",
+            "binaryPath": "c:\\Users\\Booris\\Desktop\\Gooblin\\bin\\project_executable",
+            "binaryArgs": []
+        }
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
+}

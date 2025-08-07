@@ -1,2 +1,2 @@
 # Gooblin
-Gooblin is a program for searching files on Windows (NTFS).
+Is a TUI-based file explorer.
